@@ -1,3 +1,4 @@
+# /parser.py
 from PyPDF2 import PdfReader
 import requests, io, os
 from dotenv import load_dotenv
